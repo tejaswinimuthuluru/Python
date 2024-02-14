@@ -56,7 +56,6 @@ class Suv(Car):
         print("Model:", self.model);
         print("Year:", self.year);
 
-
     def Sunroof(self):
         print("Available")
 
